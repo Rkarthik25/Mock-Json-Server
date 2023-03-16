@@ -1,5 +1,5 @@
 {
-    "User": [],
-    "Post":[],
-    "data":[]
+    "users": [],
+    "hotels":[]
+    
 }
